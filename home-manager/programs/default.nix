@@ -40,7 +40,6 @@ in
     fzf
     fd
     gh
-    git
     cmus
     p7zip
     ncmpcpp
